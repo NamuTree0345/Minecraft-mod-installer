@@ -1,0 +1,13 @@
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\bin\Release\MCInstaller.exe.config
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\bin\Release\MCInstaller.exe
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\bin\Release\MCInstaller.pdb
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.csprojAssemblyReference.cache
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.FinishPage.resources
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.Form1.resources
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.ModInstall.resources
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.Properties.Resources.resources
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.SelectMod.resources
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.csproj.GenerateResource.cache
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.csproj.CoreCompileInputs.cache
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.exe
+C:\Users\유튜버 레드위키\source\repos\MCInstaller\MCInstaller\obj\Release\MCInstaller.pdb
